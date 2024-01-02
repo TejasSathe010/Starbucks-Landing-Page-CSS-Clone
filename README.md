@@ -28,11 +28,17 @@ Languague used to develop - HTML, CSS, JavaScript.
 CSS concepts used - Google fonts, Grid, Media Query, and Flexbox.
 
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%207.59.41%20PM.png)
+
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%207.59.52%20PM.png)
+
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.00.02%20PM.png)
+
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.00.37%20PM.png)
-![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.01.00%20PM.png)
+
 
 #### Responsive design
+![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.01.00%20PM.png)
+
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.01.09%20PM.png)
+
 ![alt text](https://github.com/TejasSathe010/Starbucks-Landing-Page-CSS-Clone/blob/main/screenshots/Screenshot%202024-01-01%20at%208.01.24%20PM.png)
